@@ -1,0 +1,14 @@
+# Data processing and analysis
+numpy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+
+# Jupyter environment
+jupyter
+notebook
